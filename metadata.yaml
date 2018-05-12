@@ -1,0 +1,27 @@
+_repo: Antiquit-s-d-Herculanum-Tome-VI.--13-Lampes-et-cand-labres_17236
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Piroli, Tommaso
+    birthdate: 1752
+    deathdate: 1824
+    gutenberg_agent_id: '7239'
+    url: http://www.gutenberg.org/2009/agents/7239
+description: ''
+gutenberg_bookshelf: FR Sciences et Techniques
+gutenberg_issued: '2005-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17236'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Herculaneum (Extinct city) -- Antiquities'
+- !lcc 'DG'
+title: "Antiquités d'Herculanum, Tome VI.\r\nLampes et candélabres"
+url: http://www.gutenberg.org/ebooks/17236
